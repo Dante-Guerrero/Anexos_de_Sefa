@@ -1,5 +1,5 @@
-.json
+*.json
 mycreds.txt
 funciones.py
 __pycache__
-.ini
+*.ini
